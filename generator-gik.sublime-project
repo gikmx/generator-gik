@@ -1,0 +1,18 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"generator-gik.sublime-project",
+				".git"
+			],
+			"folder_exclude_patterns":
+			[
+				"node_modules",
+				"build"
+			],
+			"path": "."
+		}
+	]
+}

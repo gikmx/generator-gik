@@ -1,0 +1,26 @@
+{
+  "name": "generator-gik",
+  "version": "0.0.1",
+  "description": "A yeoman-generator for gik apps.",
+  "main": "build/index.js",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "yeoman-generator": "^0.20.3",
+    "yosay": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gikmx/generator-fai.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Héctor Menéndez <etor@gik.mx> (http://gik.mx)",
+  "bugs": {
+    "url": "https://github.com/gikmx/generator-fai/issues"
+  },
+  "homepage": "https://github.com/gikmx/generator-fai"
+}
