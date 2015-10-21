@@ -2,7 +2,7 @@
   "name": "<%=AppName%>",
   "version": "0.0.1",
   "description": "A Gik powered app.",
-  "main": "app.coffee",
+  "main": "build/index.js",
   "author": "GiK <gik@gik.mx>",
   "license": "ISC",
   "dependencies":{},
