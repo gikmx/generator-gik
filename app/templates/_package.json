@@ -5,7 +5,9 @@
   "main": "build/index.js",
   "author": "GiK <gik@gik.mx>",
   "license": "ISC",
-  "dependencies":{},
+  "dependencies":{
+    "babel-runtime": "^5.8.25"
+  },
   "devDependencies": {
     "gik"  : "*",
     "gulp" : "^3.9.0",
