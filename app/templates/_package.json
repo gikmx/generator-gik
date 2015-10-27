@@ -14,7 +14,10 @@
     "chai" : "^3.3.0"
   },
   "scripts": {
-    "gulp": "gulp",
-    "test": "gulp test"
+    "gulp"       : "gulp",
+    "watch"      : "gulp watch --task=build",
+    "build"      : "gulp build",
+    "test"       : "gulp test",
+    "prepublish" : "gulp test"
   }
 }

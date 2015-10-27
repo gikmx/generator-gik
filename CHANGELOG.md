@@ -1,3 +1,6 @@
+### v0.0.5
+- `NEW` Added scripts `watch`, `build`, `prepublish` & `test` to `package.json`
+
 ### v0.0.4
 - `NEW` Added `.gitignore`.
 - `NEW` Added `.npmignore`.
