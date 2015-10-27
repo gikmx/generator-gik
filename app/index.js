@@ -37,6 +37,8 @@ module.exports = Yeoman.generators.Base.extend({
 	writing: function(){
 		this.directory('src');
 		this.directory('test');
+		this.template('_npmignore', '.npmignore');
+		this.template('_gitignore', '.gitignore');
 		this.template('_package.json', 'package.json', this.LOCALS);
 		this.template('_gulpfile.js', 'gulpfile.js');
 	},
